@@ -19,7 +19,7 @@ graphql-ws==0.4.4
 greenlet==1.1.2
 idna==2.10
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 promise==2.3
 PyJWT==2.3.0
